@@ -67,7 +67,6 @@ class Weibo:
         for page in range(1, self.pages + 1):
             self.params['page'] = page
             response = requests.get(url=self.url, headers=self.headers, params=self.params)
-            print(response.url)
             data = response.json()['data']
             self.max_page = response.json()['max_page']
             for item in data:

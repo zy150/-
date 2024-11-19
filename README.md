@@ -1,4 +1,10 @@
-# 微博关系图生成
+# 微博Gephi关系图生成
+
+自动爬取微博转发关系，用于生成Gephi下的节点图
+
+Powered By [zy150 (一只懒虫)](https://github.com/zy150)
+
+repository： [zy150/-Weibo](https://github.com/zy150/-Weibo)
 
 ## 配置文件
 
