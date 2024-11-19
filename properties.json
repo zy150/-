@@ -1,0 +1,27 @@
+{
+  "url": "https://weibo.com/ajax/statuses/repostTimeline",
+  "topic": "#李子柒紫气东来",
+  "sleep_time":3,
+  "mid": "OFVurwZcc",
+  "id": "5099924437861736",
+  "limit": 1000,
+  "pages":500,
+  "save_path": "./WeiBo_data/",
+  "headers": {
+    "authority": "weibo.com",
+    "x-requested-with": "XMLHttpRequest",
+    "sec-ch-ua-mobile": "?0",
+    "cookie": "SCF=Alud2Q7aqlV5oX5tsYzdMHaF2Yiu47pnO-acCQPKtDFngGTuz2R2B4is-OtXnqfDKfaIXKdvDcWH_sucdfrRux8.; SINAGLOBAL=3888515822091.3584.1731225435266; ULV=1731225435330:1:1:1:3888515822091.3584.1731225435266:; PC_TOKEN=17d705145c; ALF=1734591982; SUB=_2A25KOEi-DeRhGeFL7FUT9inLyT-IHXVpNMR2rDV8PUJbkNANLU3gkW1NfblupkR04qq-q1RW3DmgfGiW2KzzkJG0; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5Sfa8yDsmSxFC63lqWQAwb5JpX5KMhUgL.FoMfS0MESoMNeoe2dJLoIp7LxKML1KBLBKnLxKqL1hnLBoMNSKMNeoqNS0z0; XSRF-TOKEN=_Pxmi327oXRJpVAsm29l56JB; WBStorage=fcc86192|undefined; WBPSESS=NI5tmsiRcfXGnErssJsJXLa9deUK-ry1_A8i1HVR0hPF7cvvSTq_CGe4vpzTUPZ2Vxem_E38mu-7qo_jyMxOPbtDNIaTk8bKsKwvXgZE6zIdzBdmemr7CXHtcuERgVgGwTmLcilMD4K-e4QhRUbSOQ==",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    "content-type": "application/x-www-form-urlencoded",
+    "accept": "*/*",
+    "sec-fetch-site": "same-origin",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-dest": "empty",
+    "referer": "https://weibo.com/1192329374/KnnG78Yf3?filter=hot&root_comment_id=0&type=comment",
+    "accept-language": "zh-CN,zh;q=0.9,en-CN;q=0.8,en;q=0.7,es-MX;q=0.6,es;q=0.5"
+  },
+  "params": {
+    "moduleID": "feed"
+  }
+}
